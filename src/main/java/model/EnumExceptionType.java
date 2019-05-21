@@ -14,3 +14,8 @@ public enum EnumExceptionType
     FATAL,
     UNKOWN
 }
+public class one
+{
+    int number;
+    String id;
+}
